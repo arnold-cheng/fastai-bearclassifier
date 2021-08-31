@@ -1,3 +1,5 @@
+pytorch-cpu
+torchvision-cpu
 fastai
 voila
 ipywidgets
